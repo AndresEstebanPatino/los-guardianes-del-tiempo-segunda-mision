@@ -11,7 +11,7 @@ Ahora nuestra máquina del tiempo debe ser alimentada, para ello, en nuestro  ki
 Prueba: 
 
 <ul>
-    <li>Crear figuras con el bolígrafo (una diferente por cada integrante del equipo) </li>
+    <li>Crear figuras con el bolígrafo (una diferente por cada integrante del equipo) e ir a la sala principal a entregarlas a los directores guardianes para que las validen y alimenten la máquina del tiempo</li>
 </ul>
 
 Recursos: 
