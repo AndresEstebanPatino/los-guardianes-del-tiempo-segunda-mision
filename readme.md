@@ -20,3 +20,6 @@ Recursos:
     <li>Bolígrafo alimentador de máquinas del tiempo.
  </li>
 </ul>
+
+
+Pista: La ayuda está en tu corazón
